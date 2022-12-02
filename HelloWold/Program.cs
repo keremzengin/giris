@@ -16,7 +16,7 @@ namespace HelloWorld
                 {"ankara", "konya", "kırıkkale"},
                 {"izmir", "muğla", "manisa"},
             };
-            for (int i = 1; i<=regions.GetUpperBound )
+            
 
 
         }
