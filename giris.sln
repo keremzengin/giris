@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "giris", "giris\giris.csproj", "{640E8D54-8F32-4562-9C48-26F50F75CF78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWold\HelloWorld.csproj", "{F4672CA2-A74C-4B93-8FB7-743D98119979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640E8D54-8F32-4562-9C48-26F50F75CF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640E8D54-8F32-4562-9C48-26F50F75CF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640E8D54-8F32-4562-9C48-26F50F75CF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640E8D54-8F32-4562-9C48-26F50F75CF78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4672CA2-A74C-4B93-8FB7-743D98119979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4672CA2-A74C-4B93-8FB7-743D98119979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4672CA2-A74C-4B93-8FB7-743D98119979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4672CA2-A74C-4B93-8FB7-743D98119979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C1B99E3-9B5A-48D4-9F98-210D7FDA6EE9}
+	EndGlobalSection
+EndGlobal
