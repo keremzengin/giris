@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace giris
+namespace Interfaces
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-          
-
         }
     }
 }
