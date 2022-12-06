@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "giris", "giris\giris.csproj", "{640E8D54-8F32-4562-9C48-26F50F75CF78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWold\HelloWorld.csproj", "{F4672CA2-A74C-4B93-8FB7-743D98119979}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldBig", "HelloWold\HelloWorldBig.csproj", "{F4672CA2-A74C-4B93-8FB7-743D98119979}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test2", "test2\test2.csproj", "{F000CF2A-9900-4E11-A83E-905C5B20E7C0}"
 EndProject
