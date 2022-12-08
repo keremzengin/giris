@@ -11,7 +11,7 @@ namespace OOP3
         public void BasvuruYap(IKrediManager krediManager, ILoggerService loggerService)
         {
             krediManager.Hesapla();
-            loggerService.Log();
+            loggerService.Log(); 
         }
         public void KrediOnBilgilendirmesiYap(List<IKrediManager> krediler)
         {
